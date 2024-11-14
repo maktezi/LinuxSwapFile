@@ -1,5 +1,5 @@
 # LinuxSwapFile
-Increase/Create file for linux
+Increase/Create swapfile for Ubuntu/Debian
 
 # Usage
 
